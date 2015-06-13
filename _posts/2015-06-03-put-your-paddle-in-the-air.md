@@ -1,3 +1,8 @@
+---
+layout: post
+title: Put your paddle in the air
+---
+
 I went surfing in Maui today and caught a few really nice rides. I also had an experience that has given me clarity over how I approach things, and how I want to be treated as a CEO.
 
 As a big wave was looming, the guy I was out with said &lsquo;just push your board behind you and dive under this one&rsquo;. So I did. The strength of the wave snapped the leg-rope cord, and I felt the board release from me. I came up to the surface behind the wave and the guy asked me &lsquo;can you swim?&rsquo; as he went to retrieve my board, and I replied &lsquo;yip&rsquo;, and as I saw him paddle off after it, and also saw the set of waves coming towards me, yelled &lsquo;but I don&rsquo;t want to be left alone&rsquo;. I still had my paddle with me, and held on to it as I dove under the next few waves, surfacing for a decent amount of breath between each. And then I realised - I can see waves on either side of me, I&rsquo;m feeling some rushes of adrenaline and a little anxiety from being in this situation, and I can&rsquo;t see anyone. And I thought - I do not feel like I am probably going to drown, but I feel like this is the start of a situation that could eventuate in that. So I put my paddle up vertically in the air and waved it. When the guy paddled over to me I said explicitly &lsquo;I feel really anxious right now&rsquo;, and we proceeded to get on his board together and head towards shore, where on the way a couple of other surfers paddled out with my board to hand it over and said nice reassuring things as they did.
