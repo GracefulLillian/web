@@ -1,3 +1,1 @@
-# About
-
-Lillian Grace's personal web site. Uses jekyll, poole, and hyde.
+Lillian Grace&#39;s personal web site. Uses jekyll, poole, and hyde.
