@@ -1,1 +1,0 @@
-Lillian Grace&#39;s personal web site. Uses jekyll, poole, and hyde.
