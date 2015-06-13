@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Graceful
+tagline:          'Graceful Lillian'
+description:      'The personal site of Lillian Grace, CEO of <a href="http://wikinewzealand.org/" target="_blank">Wiki New Zealand</a>.'
+url:              http://gracefullillian.com
+baseurl:          /
+
+author:
+  name:           'Lillian Grace'
+  url:            https://twitter.com/GracefulLillian
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/gracefullillian/web
