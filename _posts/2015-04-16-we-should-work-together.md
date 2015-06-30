@@ -3,6 +3,8 @@ layout: post
 title: We should work together
 ---
 
+_A speech to public sector CEs and DCEs at the New Zealand State Services Commission Executive Leadership Summit._
+
 &ldquo;In the past year I have met with about 200 people from the public sector. And every single one of them has seemed passionate and smart, and has been a real pleasure to deal with. And that has been really surprising to me, and really surprising to others in both the private sector and the general public when I talk to them about my experiences.
 
 But it shouldn&rsquo;t be, right? It shouldn&rsquo;t be surprising. We should know how dedicated and caring you are, we should know you better. So why don&rsquo;t we? Why is there such a strong separation between sectors when we&rsquo;re generally working towards the same goals?
@@ -35,9 +37,9 @@ To me, the answer is &lsquo;heck yes&rsquo;. I&rsquo;m excited about what we can
 
 So there are two big principles that we can embed to shape the best future possible:
 
-1. Arm every person with information they need to make informed decisions
+1.  Arm every person with information they need to make informed decisions
 
-2. Establish an environment where every person feels safe to innovate and try ideas 
+2.  Establish an environment where every person feels safe to innovate and try ideas
 
 And when I say every person, I mean every person.
 
@@ -83,7 +85,7 @@ The result is a great lack of understanding about others&rsquo; roles, and the h
 
 It results in all of the things that stifle innovation and don&rsquo;t allow ideas to be trialed fast and where necessary, failed fast. We should not be designing our strategies for risk. We should be designing our strategies for the optimal outcome, and then managing the risk involved.
 
-Then when I look at the private sector, and the people I know there also are wonderful, and they work hard, and a lot of them have solutions our country could benefit from and they want to share what they&rsquo;re doing with New Zealand. But they don&rsquo;t know how, it feels too hard and opaque - some of them ask me - how do you work with Government? Who do you talk to? How does it all start? And their perceptions are dramatically different from reality, simple things like -  they have no idea you have big existing streams of work that you&rsquo;re executing and can&rsquo;t just jump on a new idea. It&rsquo;s not because they&rsquo;re don&rsquo;t care, they just don&rsquo;t know.
+Then when I look at the private sector, and the people I know there also are wonderful, and they work hard, and a lot of them have solutions our country could benefit from and they want to share what they&rsquo;re doing with New Zealand. But they don&rsquo;t know how, it feels too hard and opaque - some of them ask me - how do you work with Government? Who do you talk to? How does it all start? And their perceptions are dramatically different from reality, simple things like - they have no idea you have big existing streams of work that you&rsquo;re executing and can&rsquo;t just jump on a new idea. It&rsquo;s not because they&rsquo;re don&rsquo;t care, they just don&rsquo;t know.
 
 We are all accountable for the environments we create for others, and how safe they feel, and I believe we would all do well to remember that.
 
@@ -91,7 +93,7 @@ I wonder, if you feel safe to innovate and try things. I wonder if your teams do
 
 What would happen if every person asked themselves at every turn - am I creating an environment where every person feels safe to innovate and try ideas?
 
-I think there are two main areas of questions to address: 
+I think there are two main areas of questions to address:
 
 The first, is: What can you do? What can you do to make your team feel safe to innovate and share ideas? What can you do for those in the private sector so they feel safe and enabled to talk and share with you? What can you do for the general public so they are on the journey with you? And what can you do for your ministers so they can feel free to let you fly?
 
@@ -99,4 +101,4 @@ And the second is: What do you need? These two principles aren&rsquo;t just for 
 
 So this is me, extending a hand, to you. I will work with you to help further increase my own understanding and yours, I will work with you to help break down the imaginary walls between sectors, and I will share with you everything I know.&ldquo;
 
-- See more at: http://wikinewzealand.tumblr.com/post/116859392161/we-should-work-together-address-to-public-sector#sthash.2rGGWfqa.dpuf
+*   See more at: [http://wikinewzealand.tumblr.com/post/116859392161/we-should-work-together-address-to-public-sector#sthash.2rGGWfqa.dpuf](http://wikinewzealand.tumblr.com/post/116859392161/we-should-work-together-address-to-public-sector#sthash.2rGGWfqa.dpuf)
