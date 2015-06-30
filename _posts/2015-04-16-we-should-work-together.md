@@ -99,6 +99,4 @@ The first, is: What can you do? What can you do to make your team feel safe to i
 
 And the second is: What do you need? These two principles aren&rsquo;t just for others, they&rsquo;re what all of us need. And sometimes, we need to define what we need and ask for it, to get it. What do you need from the private sector to be able to better work together? What do you need from the general public to feel safe to try things? What do you need from your team to be able to trust them to operate with freedom? And what do you need from your ministers to feel supported to innovate and try ideas?
 
-So this is me, extending a hand, to you. I will work with you to help further increase my own understanding and yours, I will work with you to help break down the imaginary walls between sectors, and I will share with you everything I know.&ldquo;
-
-*   See more at: [http://wikinewzealand.tumblr.com/post/116859392161/we-should-work-together-address-to-public-sector#sthash.2rGGWfqa.dpuf](http://wikinewzealand.tumblr.com/post/116859392161/we-should-work-together-address-to-public-sector#sthash.2rGGWfqa.dpuf)
+So this is me, extending a hand, to you. I will work with you to help further increase my own understanding and yours, I will work with you to help break down the imaginary walls between sectors, and I will share with you everything I know.&quot;
