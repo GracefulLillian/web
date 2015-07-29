@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Graceful
 tagline:          'Graceful Lillian'
-description:      'The personal site of Lillian Grace, CEO of <a href="http://wikinewzealand.org/" target="_blank">Wiki New Zealand</a>.'
+description:      'The personal site of Lillian Grace, CEO of <a href="http://figure.nz/" target="_blank">Figure.NZ</a>.'
 url:              http://gracefullillian.com
 baseurl:          /
 
