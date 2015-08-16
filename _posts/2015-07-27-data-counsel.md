@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Data Counsel
+title: "Introducing: Data Counsel"
 ---
 
-This is a guest post from [Aaron Schiff](https://nz.linkedin.com/in/aaronschiffnz) 
+This is a guest post from [Aaron Schiff](https://nz.linkedin.com/in/aaronschiffnz)
 
 *"I’m really excited to be appointed as Data Counsel at [Figure.NZ](http://figure.nz) (formerly Wiki New Zealand), and I could be your Data Counsel too. What’s a Data Counsel? I’ll explain, but first…*
 
