@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perfectly you
+title: Imagine being together
 ---
 
 *A speech to IPANZ Young Professionals*
