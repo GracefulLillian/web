@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imagine being together
+title: "Data isn't enough, Seek Culture is more important"
 ---
 
 *A submission to Hawke's Bay Today regarding the proposed amalgamation*
