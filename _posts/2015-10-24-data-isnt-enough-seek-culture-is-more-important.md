@@ -3,7 +3,5 @@ layout: post
 title: "Data isn't enough, Seek Culture is more important"
 ---
 
-*A submission to Hawke's Bay Today regarding the proposed amalgamation*
 
-Imagine sitting down in the sun with pen and paper in hand in 2025, just ten years from now, and writing a description of Hawke’s Bay. What it looks like as you drive through it, the kinds of job choices people have, the kinds of lifestyle choices people have, and what the community spirit and safety is like.
-
+Two of the biggest shifts that have come from technology in the last ten years are: it used to be hard to share information widely, and now it’s easy; and it used to be hard to communicate with lots of people in multiple directions, and now it’s easy.
